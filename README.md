@@ -29,8 +29,7 @@ Data Set Characteristics:
         1. Implement your own version of sklearn SGDRegresser.
         2. Plot a chart of predicted values Vs actual values of your own SGD Implementation
         3. Now try out the SGDRegresser of sklearn and plot the chart of predicted values Vs actual values
-        4. In a tabular format, compare the weights obtained from your own 
-        implementation with the weights obtained after applying sklearn's SGDRegresser.
+        4. In a tabular format, compare the weights obtained from your own implementation with the weights obtained after applying sklearn's SGDRegresser.
         5. Also compare the MSE obtained from your custom implementation of SGDRegressor and that of sklearns implementation.
         6. Try to get the weights & MSE of your custom implementation, similar to the weights and MSE of sklearns implementation.
         7. Conclusion
