@@ -1,7 +1,5 @@
 # Linear-Regression-with-SGD
 
-Notes
-------
 Data Set Characteristics:  
 
     :Number of Instances: 506 
